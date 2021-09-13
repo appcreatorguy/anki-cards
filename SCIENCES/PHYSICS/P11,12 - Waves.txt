@@ -1,0 +1,52 @@
+# AQA GCSE Physics for Combined Sciences: Trilogy P11,12 - Waves key terms
+# Original Flashcard Deck by chantalameh on Quizlet (https://quizlet.com/gb/557765307/p6-molecules-and-matter-flash-cards/))
+# Converted to Anki Form by Manas Mengle
+# 2021
+«
+Amplitude and energy relationship«The bigger/longer the amplitude, the more energy the wave carries.
+Amplitude«The height of a wave from its rest position (centre line) to either a trough or a peak. The bigger the amplitude, the more energy/information the wave carries.
+compression«The part of a LONGITUDINAL wave where the particles are closest together
+Electromagnetic waves«A type of wave that can move through a vacuum, at the same speed of 300 kilometres per second. They do not need a substance to travel through.<br><br>Examples are light waves, radio waves and microwaves.<br><br>They transfer energy from one source to another.
+For a reflection, angle of incidence =«Angle of reflection. <br><br>The angle of incidence is the angle that light goes towards a mirror at.<br>The angle of reflection is the angle that light goes away from a mirror at (because it has hit the mirror and has been reflected).<br>The angles are measured from the normal (line going 90^o from object).
+Frequency equation«\(1\div wave period = frequency\).
+Frequency«The number of wave peaks that pass a point in one second. (Waves per second)<br><br> It is measured in Hertz<br><br>1 Hz = 1 peak per second<br>2 Hz = 2 peaks per second <br>and so on...
+How do we measure the speed of sound?«Have 2 people stand a certain distance apart (measure). Have one person make a noise, and time how long it takes for the other person to hear the noise. Then do distance / time to find wave speed. Your answer should be close to 343 m/s.
+Longitudinal waves«A wave where particles oscillate parallel (same direction) to the direction of energy transfer (particles move from side to side).<br><br>Examples are sound waves.
+Mechanical waves«waves that travel through a substance. <br><br>Examples are sound waves, water waves, waves on springs or ropes, and seismic waves produced by earthquakes.
+Medium«Material through which a wave travels.
+Movement of particles and energy on a wave«Particles oscillate up and down or from side to side. Energy moves from left to right.
+Rarefraction«a section of a LONGITUDINAL wave where the particles are furthest apart
+Refraction«The bending of a wave as it passes at an angle from one medium to another. <br><br>When light moves from a less dense medium (eg: air) to a more dense medium (eg:glass), it moves AWAY from the normal (line that runs 90^o from object.)<br><br>When light moves from a more dense medium to a less dense one, it moves TOWARDS the normal. <br><br>This is because when any object (light in this case) hits a different medium, it changes its speed.
+Ripple Tank Experiment«A ripple tank is a shallow tray of water, with a lamp shining down through it onto a white card below, in order to clearly see the motion of the ripples created on the water's surface. Ripples are made using a motor. How it works:<br><br>First, switch on the lamp and motor, and adjust until low frequency waves can be clearly observed.<br>Measure the length of 10 waves, then divide by the number 10 to record wavelength of one wave.<br>Count the number of waves passing a point in ten seconds, then divide by ten to record frequency.<br>Calculate the speed of the waves using: wave speed = frequency × wavelength.
+Transverse waves«A wave where particles oscillate perpendicular (90 degrees) to the direction of energy transfer. (Particles move up and down).<br><br>Examples are all electromagnetic waves.
+Wave period«The time it takes for a wave to complete one full cycle
+Wave speed (v) =«\(frequency (f) \times wavelength (λ)\)<br\(>V = f \times λ\)<br><br>speed in metres per second (m/s)<br>wavelength in metres (m). It must be in metres, not cm.<br>frequency in hertz (Hz)<br><br>Or speed = distance / time
+Wavelength«The distance between two corresponding points (one wave peak and the next wave peak). It is measured in metres. <br><br>To find it for a longitudinal wave, do compression to compression, or rarefaction to rarefaction (not peak to peak).
+What do waves carry?«Energy and information. They do NOT carry matter.
+When a wave changes medium, what happens to frequency?«Frequency stays the same. The wave speed changes.
+How do microwaves work?«- waves are easily absorbed by food and - mainly targets water molecule <br>- easily pass through the atmosphere
+How do x-rays and gamma rays work?«- not absorbed <br>- transmitted through tissues <br>- can mutate genes and cause cancer (ionising radiation)
+how do you calculate the speed of sound?«speed= distance / time
+How do you calculate wave frequency?«Frequency (Hz) = number of waves / time
+How do you calculate wave speed?«Wave speed (m/s) = frequency (Hz) x wavelength (m)
+how do you measure wave speed?«ripple tank, waves on a string
+How does infrared waves work?«Chemical bonds are absorbed which causes the internal energy to heat up.
+How does ultraviolet work?«- its very dangerous
+How does visible light work?«the light we see
+Parts of a wave«crest, trough, amplitude, wavelength
+Properties of the electromagnetic spectrum«start of spectrum - long wavelengths, low frequency, low energy <br><br>end of spectrum - short wavelengths, high frequency,, high energy
+Refraction of light«When light travels through one medium into another its speed changes
+What are the properties of electromagnetic waves?«-transverse waves<br>-transfer energy as radiation from the source of the waves to an absorber<br>-can travel through a vacuum such as in space<br>-travel at the same speed through a vacuum or the air
+What are the seven electromagnetic waves?«radio waves, microwaves, infrared, visible light, ultraviolet, x-rays, gamma rays
+What happens to waves when they travel into more or less dense materials?«the denser the transparent material, the more slowly light travels through it
+What is a longitudinal wave?«The wave oscillates parallel to the direction of the vibration
+What is a rarefaction in a longitudinal wave?«regions of low pressure due to particles being spread further apart
+What is a ripple tank test?«A ripple tank is a transparent shallow tray of water with a light shining down through it onto a white card below. The light allows you to see the motion of the ripples created on the water's surface more easily. Ripples can be made by repeatedly dipping a straight object (i.e stick) into the water
+What is a transverse wave?«waves in which the particles vibrate in a perpendicular motion
+What is a use of infrared waves?«- heaters<br>- cooking (toasters)<br>- thermal imaging
+What is a use of microwaves?«- cooking food <br>- communicating, on mobile phones and through satellites.
+What is a use of radio waves?«- used for communication<br>- transmitted easily through the air<br>- don't cause damage to the human body<br>- can be generated in electrical circuits (waves are absorbed by conductor and create an alternating current, this codes information)
+What is compression in a longitudinal wave?«regions of high pressure due to particles being close together
+What is radiation dose?«A measure of the risk of harm from the body being exposed to radiation<br>The risk depends on the total amount of radiation absorbed & how harmful the type of radiation is<br>Measured in sieverts (Sv) or millisieverts (mSv)
+What is the approximate value for the speed of sound in air?«330 m/s
+What is the waves on a string test?«a test done by attaching string to a vibration generator and seeing how many waves there are
