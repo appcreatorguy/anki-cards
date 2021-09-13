@@ -1,0 +1,61 @@
+# AQA GCSE Physics for Combined Sciences: Trilogy P5 - Electricity in the Home Key Terms
+# Original Flashcard Deck by chantalameh on Quizlet (https://quizlet.com/chantalameh)
+# Converted to Anki Form by Manas Mengle
+# 2021
+;
+AC or DC? Mains electricity in the uk;AC
+what is AC;alternating current
+what is DC;direct current
+What is frequency?;number of waves per second
+current that goes around in one direction at a constant voltage;direct current
+alternating current;current that repeatedly reverses its direction and voltage
+frequency and voltage of domestic electricity supply in UK;50Hz about 230V
+what does the national grid do;supplies power from power station to homes/buildings
+how are step-up transformers used in the national grid;increases size of the alternating p.d to reduce energy loss in transmission cables
+how are step-down transformers used in the national grid;reduce p.d before electricity is supplied to homes
+how are electrical appliances conected to the mains;using a 3 core cable
+Purpose of the earth wire;As a safety feature, to ensure the appliance doesn't become live
+What is the max PD in uk plugs;325V, this is equivalent to 230V in DC
+what is the national grid;a system of cables and transformers linking power from stations to consumers
+When electricity comes out of power stations what is the voltage;25,000V
+What is the voltage used when moving electricity a long distance;132,000V
+why is the national grid an efficient way to transfer energy;The National Grid transmits electricity at a low current to reduce heat loss, this is done using step-up transformers at power stations which produce the very high voltages needed
+purpose of using an alternating current;You can use a transformer to change the p.d
+Why is it best for electricity to travel at high voltages?;This will mean it has a lower current, which will reduce heat loss through the wires, making the process more efficient.
+how are electrical appliances conected to the mains;using a 3 core cable
+colour of live wire;brown
+colour of neutral wire;blue
+colour of earth wire;green and yellow stripes
+purpose of live wire;carries alternating p.d from the supply
+purpose of neutral wire;completes the circuit
+purpose of earth wire;safety wire, stops appliance becoming live<br>if live wire touches metal case current flows to earth
+p.d of earth wire;0V, only carries current if theres a fault, neutral wire is also at or close to 0V
+Why should you never touch a live wire, even if the switch is off?;Your body is at 0V and if you touch the live wire, a large PD will act across your body causing a big current to flow through you.
+what are the dangers of providing any connection between the live wire and earth;earth wire is connected to the metal case, connection between earth and live wire could lead to appliance becoming live
+why are appliances with metal cases dangerous;The live wire may become loose and touch metal case, the appliance can then become live and if someone touched it they would be electrocuted
+Why would you not need an earth wire in a plastic appliance?;Plastic is an insulator so wouldn't become live if it touched the live wire
+function of cable grip;stops wires being pulled from plug
+for an electrical appliance the current of the fuse must always be;slightly above the current flowing through it
+What are the 2 safety features in plugs?;The earth wire<br>The fuse
+Which metal is used in wires?;Copper
+3 reasons copper is used in wires?;Fairly cheap<br>Good conductor<br>Easily bend
+what are the pins made of in 3 pin plug and why;brass because it's a good conductor and doesn't rust or oxidise
+short circuit;if a live wire inside the appliance touches a neutral wire, a very big current passes between the two wires at the point of contact. provided the fuse blows it cuts the current odd
+equation for power in terms of energy transferred and time;power= energy transferred time<br>P= E/t
+What unit is power measured in?;Watts (W)
+What unit is charge measured in?;Coulombs
+for any electrical appliance what is the current;charge flow per second
+for any electrical appliance what is power;energy transferred to it per second
+equation for power supplied in terms of p.d and current;power supplied= current x p.d<br>P= IV
+equation for power in terms of current and resistance;Power = current^2resistance<br>P= I^2 R
+What unit is resistance measured in?;Ohms (Ω)
+Equation for charge flow in terms of current and time;charge flow = currentxtime<br>Q=It
+Why does a resistor gain heat when charge flows through it?;The electrons passing through the resistor collide with the metal ions of the metal, so the ions gain kinetic energy and heat up
+equation for energy transfer in terms of power and time;energy transfer = powerxtime<br>E=Pt
+Equation linking energy transferred, potential difference and charge flow;Energy transferred = potential differencexcharge flow<br>E= VQ
+what does the amount of of energy an appliance transfers depend on;how long it has been switched on and the power of the appliance
+Why do many electrical appliances heat up when used?;The wires and resistors heat up due to the current passing though them
+why do electrical appliances waste energy;because current in wire and component has a heating effect due to resistance
+Equation linking power, current and potential difference;Power = currentxpotential difference<br>P= IV
+Equation for efficiency;Efficiency = total useful output power /total input power *100
+2 ways electrical appliances waste energy;Heat loss when the current passes through the wires and resistor<br>Heat loss through friction if there are any moving parts

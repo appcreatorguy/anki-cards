@@ -1,0 +1,61 @@
+# AQA GCSE Physics for Combined Sciences: Trilogy P6 - Molecules and Matter Key Terms
+# Original Flashcard Deck by chantalameh on Quizlet (https://quizlet.com/gb/557765307/p6-molecules-and-matter-flash-cards/))
+# Converted to Anki Form by Manas Mengle
+# 2021
+`
+What is the density of a substance`the mass per unit volume of a substance
+Equation for density`Density = mass/volume
+Unit for density`kg/m3 or g/cm3
+What happens if a material less dense than water is placed in water?`It floats
+How to find the density of a regular solid`Measure mass of object using balance<br>Measure dimensions using ruler then use to calculate volume
+How to find the density of an irregular solid`Lower it on a thread into a measuring cylinder partly filled with water<br>Work out volume if object by rise in water level
+How to find the density of a liquid`Measure volume using measuring cylinder<br>Measure mass of empty beaker using balance<br>Pour liquid from measuring cylinder into beakerMeasure mass of beaker and liquid<br>Calculate mass of liquid by subtracting mass of empty beaker from total mass of beaker and liquid<br>
+Which states of matter can flow?`gases and liquids only
+Shape of a solid`fixed
+Shape of a liquid`Fits container shape
+Shape of gas`fills container
+Which states of matter have a fixed volume?`solid liquid
+Can the volume of a gas be changed`Yes
+Relative density of different states of matter`Solid much higher than gas<br>Liquid higher than gas lower than solid<br>Gas lower than solid and liquid
+Solid`Particles are held next to each other by strong forces of attraction, they vibrate about fixed positions.
+liquid`particles are in contact with each other but due to weak forces of attraction between particles, they cant be held together in a rigid structure but the forces of attraction are strong enough to keep the particles from moving away from each other completely. move about at random
+gas`the forces of attraction between particles are so weak they're insignificant so the particles are far apart( hence gases are least dense). particles move about faster than liquid at random.
+explanation of melting`when a solid is heated, the internal energy of the particles increase and they vibrate more. if heated enough, the solid melts as the particles have gained enough energy to break away from the structure
+what is the pressure of a gas caused by`Gas particles collide with each other and the internal surface of the container. Pressure is caused by the force of particle impacts on the surface.
+What happens to the kinetic energy store of a gas when it's heated?`It increases therefore pressure increases
+energy in different states of matter`solid least energetic<br>gas most energetic
+Sublimation`the process in which a solid changes directly into a gas
+Melting`The change in state from a solid to a liquid
+Freezing`The change of state from a liquid to a solid
+Vaporization`The change of state from a liquid to a gas
+Condensation`The change of state from a gas to a liquid
+Deposition`The change in state from gas to solid
+There are changes in energy stores associated with...`...a material when it's temp is increased
+Conservation of mass`mass cannot be created or destroyed<br>Mass of substance s conserved when it changes state
+Melting point`the temperature at which a given solid will melt/solidify
+Boiling point`The temperature at which a liquid boils/condenses
+What do melting and boiling points require?`Energy
+Melting and boiling points of pure substances`Fixed
+What are melting and boiling points affected by?`Impurities in the substance will mean they can change
+Evaporation`Occurs on the surface of a liquid when its temperature is below its boiling point
+Boiling`occurs throughout the liquid
+Latent heat`the energy transferred to or from a substance when it changes its state
+Why is the energy transferred to a substance to melt or boil it 'hidden'?`Temperature doesn't change at melting or boiling point
+Internal energy`Energy stored by particles in a substance
+What is internal energy the sum of`- The kinetic energy they have due to their individual motions relative to each other<br>-The potential energy they have due to their individual positions relative to each other
+Kinetic energy of particles increases or decreases when`The temperature of the substance increases or decreases
+Potential energy of particles changes when`Temperature of substance changes
+Specific latent heat of fusion`The energy needed to change the state of 1 kg of a substance from solid to liquid, without changing its temperature (at its melting point)
+latent heat of fusion`Energy needed by particles to break free from each other
+In latent heat calculation, use the equation`E = m L
+Specific latent heat of vaporization`the energy needed to change the state of 1kg of a substance from the liquid to the vapour without changing its temperature (at boiling point)
+Latent heat of vaporization`Energy needed by particles to break away from their neighboring particles in the liquid
+Finding the specific latent heat of ice/water`Can be measured using a low-voltage heater to melt ice (or to boil water)<br>Joulmeter<br>Balance(water)<br>Beaker<br>Funnel(ice)<br>Insulating jacket(water)
+What happens to the pressure of gas sealed in a container as the temperature increases? Why?`Increases<br>Gas molecules collide with each other and the surface of the container , rebounding after each<br>Each impact exerts a tiny force on the surface <br>The energy transferred to a gas when heated kinetic energy is the average speed of molecules increases
+Brownian motion`the chaotic movement of colloidal particles, caused by collision with particles of the solvent in which they are dispersed
+smoke particles size in comparison to air molecule`Larger
+For a fixed mass of gas at constant temperature:`- its pressure is increased if its volume is decreased<br>- reducing the volume of a gas increases the number of molecular impacts per second on the surfaces that are in contact with the gas
+What happens to the pressure of a gas when it's compressed at a constant temp`It increases
+Compressing a gas`Requires force
+What happens if volume of a fixed mass of gas decreases ?why?`Gas pressure increases<br>Space molecules move in is smaller so they don't travel as far between each impact with the surface of the container<br>Molecules hit the surface more often so the number of impacts per second increases
+Boyle's Law`P1V1 = P2V2<br>As long as mass and temp of gas don't change

@@ -1,0 +1,143 @@
+Accent`a type of articulation where a particular not is to be stressed
+acciaccatura`also referred to as crush notes: a note of decoration played in as short time as possible
+adagio`a tempo having a slow movement; restful at ease
+Added Seventh`adding a further note to a triad, a 7th above the root
+Alberti bass`an accompaniment played in the left hand of a keyboard part, using broken chords to produce a regular rhythmic pattern
+allegro`a direction to play lively and fast
+antiphonal`used to describe the effect produced by the use of different groups of performers separated spatially
+appoggiatura`note of decoration, written in smaller type but given full note length
+arch shaped/ arch form`music in at least five sections, in form ABCBA
+arpeggio`playing the notes of a chord by spreading them out (usually from the bottom), a feature commonly used by piano, harp and guitar
+articulation`the addition of specific instructions for performance, such as accents, staccato and tenuto
+atonal`music written and performed without regard to any specific key
+augmentation`the doubling of note values
+bar`a small unit of music, number of beats in each is shown by time signature
+Baroque`Time in music history ranging from the middle of the 16th to the middle of the 17th centuries. Characterized by emotional, flowery music; written in strict form
+bi-rhythm`the use of two different rhythms together
+binary form`music in two sections normally repeating both
+blue note`note that has been altered/flattened
+bpm`beats per minute
+broken chord`normally referring to a type of accompaniment figure derived from spreading the notes of a chord
+cadence`a progression of two chords which end a musical phrase
+cadenza`a solo vocal or instrumental passage improvising on music previously heard in the movement
+call and response`the opening phrase is answered of completed by one or more other musicians
+canonic`imitation, where performers enter with same tune before the previous entry has finished, producing an overlapping effect
+chamber group`small group of players or singers, for example string quartet
+chamber music`music written for small groups of players or singers
+chord`two or more notes sounded together
+chromatic scale`a scale that includes all twelve notes of an octave
+Classical`The period of music history which dates from mid 1700's to mid 1800's. The music was spare and emotionally reserved, especially when compares to romantic and Baroque music
+coda/codetta`a rounding-off section
+compound time`time signatures based on a dotted crotchet beat, divided into three quavers for example 6/8
+compression`in audio recording, this is where the dynamic range of the performers is controlled to avoid distortion where the dynamic level is too high and inaudibility where dynamics are too low
+con arco (with a bow)`using a bow to produce a note on a string instrument
+con sordino`placing a piece of wood against the bridge of a string instrument of altering the sound of a brass instrument by inserting a cone-shape into or covering the bell
+concerto`a composition written for a solo instrument. Soloist plays the melody while the orchestra plays the accompaniment
+condenser microphone`these produce a high-quality recording audio
+conjunct`melodic movement by step
+consonant`sounds which fit well together
+continuo`refers to the type of bass part written in the Baroque period
+contrapuntal/polyphonic`Two or more parts of equal importance
+crescendo`getting gradually louder
+cyclic`a composition where the theme recurs, possibly in different styles, throughout the work
+da capo aria`a solo song in ternary from
+diatonic`music written using the major or minor keys; a major or minor scale, or the notes from such a scale
+diminished`refers to intervals 4th, 5th and 7th; these are one semitone less than a perfect 4th or 5th etc.
+diminuendo`getting gradually quieter
+diminution`shortening or changing the note values or intervals of a melody, usually by halving them.
+disjunct`refers to melodic movement by leap
+dissonant`sounds which clash when played together
+dotted notes`dot above the notes adding half the original value of the note onto it
+double-stopping`the playing of two adjacent strings simultaneously
+drone`dull tone such as a humming or buzzing sound. Also a bass note held under a melody
+drum fill`usually heard at the end of a phrase, this is here the drummer plays a free rhythmic pattern to fill in the bars indicated
+dynamics`Degrees of loudness or softness in music
+ensemble`the performance of either all instruments of an orchestra or voices in a chorus
+falsetto`false voice, singing by an adult male in a vocal register higher than that normally used.
+flat`lowering a note by a semitone
+forte`loud
+fortissimo`very loud
+free rhythm`where rhythm of the music is not set by regular bar lines but determined by performer
+glissando/portamento/slide`sliding from one note to another
+ground bass`music where a bass pattern is repeated a number of times while the parts above alter.
+hairpins`terms used to refer to the signs which can replace crescendo and diminuendo
+harmonic/homophonic`different [arts sing and/or play different notes but move together in the same rhythm
+hemiola`where tw bars of 3/4 are played as there bars of 2/4 or one bar of 3/2
+imitation`where entries copy the musical phrase which has just been heard
+imperfect cadence`tonic, or another chord, to dominant; an incomplete cadence
+improvisation`to make up something for , a performance given extempore without planning or preparation
+interrupted cadence`dominant to submediant rather than the expected tonic
+interval`the distance in pitch between two notes
+inversion`turning a melody upside down but keeping its intervals
+irregular rhythms`music where the time signature changes or where the accents frequently shift
+key signature`the flats and sharps at the beginning of each staff line indicating the key of the music the piece is to be played
+key`system of notes or tones based on and the named after the key note
+layered`music built up on several strands
+leading note`the seventh note of the scale where there is a strong desire to resolve on the tonic
+legato`word to indicate that the movement or entire composition is to be played smoothly
+ligature`curved line connecting notes to be sung or played as a phrase
+major`music based on scale that sounds happy
+metre`refers to the use of a time signature; the number of beats in each bar
+mezzo forte`fairly loud
+mezzo piano`fairly quiet
+middle eight`term given to the contrasting section in a pop song
+MIDI`musical instrumental digital interface
+minor`music based on a scale sounding sad
+minuet and trio`a dance style written in 3/4 time
+modal`music using an early form of scale
+modulation`moving from one key to another
+monotone`repetition of a single tone
+mordent`the insertion of the note above or below the written note
+movement`a separate section of a larger composition
+octave`eight full tones above the key note where the scale begins and ends
+ornamentation`decorating the written pitch
+ostinato`a repeated musical phrase or rhythm
+passing note`a melodic note placed between two harmony notes which results in a stepwise movement
+pentatonic`a musical scale having five notes
+phrasing`dividing a melody into phrases or short units
+pianissimo`very quiet
+piano`quiet
+pitch bend`technique associated with guitar playing; the player frets a string and then pushes it sideways to raise the pitch
+pizzicato`plucking the strings instead of using a bow
+polyrhythm`where several different rhythms are played or sung together
+prelude`a short piece of music originally preceded by a more substantial work
+primary chords`chords based on the first, fourth, and fifth notes of he scale
+rapping`speaking rhythmically, using a pattern of rhyming phrases over a musical backing
+real time`when you play music, for instance not a sequencer, and record the actual rhythms that you play
+regular rhythms`music which keeps to a single time signature
+relative minor and major`the major and minor keys that share the same notes in that key eg. a minor shares the same note as C major
+Romantic`A period in history during the 18th and early 19th centuries where the focus shifted often used for the final movements of classical sonata works
+rondo form`music in at least five sections where it makes ABACABA
+round`a canon where the melody is sung in two or more voices
+rubato`from the Italian for 'robbed' where the player uses a certain amount of freedom with the tempo to add expression to the music
+scalic`melodic movement using a scale, moving upwards or downwards in steps
+scherzo and trio`similar form to the minuet and trio, but faster
+secondary chords`chords based on the second, third and sixth notes in the scale
+sequence`successive transposition and repetition of a phrase at different pitches
+sforzando`an accent, a note to be emphasized
+sharp`a symbol indicating the note is to be raised by one semitone
+simple time`time signature where the beat id divided int to
+single melody line`music with neither counter melody, descant nor other supporting lines
+slur`a curve over notes to indicate that a phrase is to be played legato
+sonata`a composition, usually in four movements, for one or two instruments
+soprano`the highest female voice
+staccato`play the notes crisply and detached
+step time`where you input the notes one at a time, choosing the duration and pitch of each in turn
+strophic`a song form in which the music is repeated for each verse
+symphony`three to four movement orchestral piece, generally in sonata form
+tempo`the speed of the music
+texture`refers to the number and type of sounds heard together
+theme and variation`a form in which an opening theme is subject to variations upon each successive repetition
+through-composed`a song form in which the music changes continually to reflect the meaning of the words
+tierce de Picadie`where the final chord of music in a minor key has a major third instead of the expected minor
+timbre`the characteristics sounds of different instruments and voices
+tonal`having a sense of key, belonging to a key
+tone`the difference in pitch of two semitones
+triadic`a type of melodic movement through the notes of a triad
+trill`the rapid alternation of two adjacent notes
+turn`a decoration of a written note, adding the pitches above and below
+unison`two or more voices or instruments playing the same note simultaneously
+vibrato`rapid and regular fluctuation in pitch, used by instrumentalists and singers to produce a richer sound
+virtuoso`a person with notable technical skill in the performance of music
+vivace`direction to performer to play a composition in a brisk, lively, and spirited manner
+whole-tone scale`a scale consisting of only whole-tone notes. Such a scale consists of only 6 notes

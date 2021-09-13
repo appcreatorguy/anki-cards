@@ -1,0 +1,62 @@
+# AQA GCSE Physics for Combined Sciences: Trilogy P4 - Electric Circuits Key Terms
+# Original Flashcard Deck by chantalameh on Quizlet (https://quizlet.com/chantalameh)
+# Converted to Anki Form by Manas Mengle
+# 2021
+;
+What happens when certain insulating materials are rubbed against each other?;They become electrically charged, as negatively charged electrons are rubbed off one material and onto the other.
+What happens to the material that gains electrons?;It become negatively charged
+What happens to the material that loses electrons?;It becomes positively charged
+what happens when two electrically charged objects are brought close to each other;they exert a force on each other
+What do the lines of force around a charged item represent?;The electric field
+If the object was positively charged, would the lines of force be going outward or inward.;Outward
+If the object was negatively charged, would the lines of force be going outward or inward.;Inward
+Attract or Repel? Two positively charged objects;Repel
+Attract or Repel? Two negatively charged objects;Repel
+Attract or Repel? Oppositely charged objects;Attract
+Why is there sometimes spark between two oppositely charged objects;If the field between the objects gets too strong electrons are pulled out of air molecules by the force of the field , the electrons hit other air molecules and knock other electrons out of them creating sudden flow of electrons between the two charged objects
+2 examples of non-contact forces;Attraction<br>Repulsion
+non-contact force;a force that one object can apply to another object without touching it
+static electricity;A buildup of charges on an object.   
+What is the function of a cell?;To push electrons around a complete circuit
+Function of a switch;It enables you to turn the current in a circuit on or off
+The function of an indicator eg bulb;To act as an indicator as it emits light as a signal when current passes through it
+Function of a diode;allows current through in only one direction
+function of an ammeter;used to measure electric current
+function of a light emitting diode;It emits light when a current passes through it
+function of a fixed resistor;limits current in circuit
+Function of a variable resistor;allows current to be varied
+function of a fuse;designed to melt and therefore breaks circuit if the current passing through it exceeds a certain amount
+function of a voltmeter;To measure the potential difference (voltage)
+function of a heater;to transfer energy from an electric current to heat the surroundings
+symbol of a voltmeter;
+symbol of a cell;
+symbol of a switch;
+symbol of a bulb;
+symbol of a diode;
+symbol of a light emitting diode;
+symbol of an ammeter;
+symbol of a fixed resistor;
+symbol of a variable resistor;
+symbol of a fuse;
+What is current?;The flow of charge (electrons) around the circuit
+equation for charge, current and time;charge flow = currentxtime taken <br>Q= It
+What is a battery?;Two or more cells connected in series
+Series or Parallel? How do you connect an ammeter into a circuit?;Series
+Series or Parallel? How do you connect an voltmeter into a circuit?;Parallel
+What is potential difference?;the energy transferred to the bulb or the work done on it by each coulomb of charge that passed through it
+What is Ohm's Law?;The current through a resistor at constant temperature is directly proportional to the potential difference across the resistor
+What causes resistance?;The electrons passing through the circuit must push through vibrating atoms in the metal, these atoms resist the passage of electrons
+Why is a wire considered an ohmic conductor?;its resistance remains constant as current changes provided temperature remains constant
+What is an ohmic conductor?;A conductor which has a constant resistance as the current changes
+What is the relationship between current through an ohmic conductor and the potential difference?;They are directly proportional so the graph would have a straight line
+True or False? Reversing the potential difference (and therefore the current) makes no difference to the current-PD graph for a resistor;True
+If when you plot a current-PD graph for a resistor, the line is very steep, what do you know about the resistor;It has a low resistance
+If when you plot a current-PD graph for a resistor, the line is shallow, what do you know about the resistor;It has a high resistance
+Why is it that in a series circuit the same current passes through each component;Because the same number of electrons passes through each component every second
+current in a series circuit;same current through each component
+p.d in a series circuit;p.d from power supply is shared between components
+True or False? PD in series circuits is equally split between all the components;False, although the current is the same through all the components, the resistance isnt always the same
+total resistance in a series circuit;the sum of the resistance of each component give you total resistance
+What do you do to work out the total voltage, if the cells are connected in series?;You add up the voltage/ pd of all the cells
+when does the voltage of cells in series cancel out ?;if the cells are facing the opposite direction
+Why does adding more resistors in series increase the total resistance?;It causes PD to decrease as it is split between more resistors, this means the current will also decrease. Therfore as the overall PD is unchanged but the current has decreased the overall resistance must have increased

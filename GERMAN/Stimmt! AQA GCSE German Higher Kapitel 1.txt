@@ -1,0 +1,195 @@
+# Stimmt! AQA GCSE German Higher Kapitel 1 Vocabulary
+# Original Flashcard Deck by Stephen_Price9 on Quizlet (https://quizlet.com/235952014/stimmt-kapitel-1-flash-cards/)
+# Converted to Anki Form by Manas Mengle
+# 2021
+`
+Schulfächer`School subjects
+Sprachen`languages
+Deutsch`German
+Englisch`English
+Französisch`French
+Spanisch`Spanish
+Naturwissenschaft(en)`science(s)
+Biologie`biology
+Chemie`chemistry
+Physik`physics
+Mathe(matik)`math(ematic)s
+Informatik`ICT
+Geschichte`history
+Erdkunde`geography
+Politik`politics
+Gesellschaft`sociology
+Wirtschaft`economics
+Kunst`art
+Musik`music
+Theater`drama
+Religion`RE
+Sport`PE, sport
+das Wahlfach`optional subject
+das Pflichtfach`compulsory subject
+Farben und Kleidung`Colours and clothes
+blau`blue
+braun`brown
+gelb`yellow
+grau`grey
+grün`green
+rot`red
+schwarz`black
+weiß`white
+Ich trage (nie) ...`I (never) wear ...
+einen Rock`a skirt
+eine Jeans`jeans
+eine Hose`trousers
+eine Jacke`a jacket
+eine Krawatte`a tie
+ein Hemd`a shirt
+ein Kleid`a dress
+ein T-Shirt`a t-shirt
+Sportschuhe`trainers
+Schuhe`shoes
+Schulsachen`School items
+Was hast du (für das neue Schuljahr / die neunte Klasse) gekauft?`What have you bought (for the new school year / Year 9)?
+Ich habe ... gekauft.`I bought ...
+einen Bleistift`a pencil
+einen Füller`a fountain pen
+einen Kuli`a ballpoint pen
+einen Radiergummi`a rubber
+einen Taschenrechner`a calculator
+ein Etui`a pencil case
+ein Lineal`a ruler
+Filzstifte`felt-tip pens
+Das neue Schuljahr`The new school year
+In der neunten Klasse freue ich mich (nicht) auf ...`In Year 9, I'm (not) looking forward to ...
+den Druck`the pressure
+die Klassenfahrt`the class trip
+das Zeugnis`the report
+die Hausaufgaben`the homework
+die (Sport-)AG(s)`the sport clubs
+die Klassenarbeiten`the tests
+die Prüfungen`the exams
+neue Fächer`new subjects
+meine Freunde/Freundinnen`my friends
+die Noten`the grades
+am meisten`mostly
+besonders`especially
+total`totally
+(echt) sehr`(really) very
+weniger`less
+(gar) nicht`not (at all)
+nie`never
+langweilig`boring
+stressig`stressful
+schwierig`difficult
+interessant`interesting
+einfach`simple
+Ein Schultag`A school day
+Was hat (die Klasse 9) in der (ersten) Stunde am (Montag)?`What does (Year 9) have in the (first) lesson on (Monday)?
+zweite(n)`second
+dritte(n)`third
+vierte(n)`fourth
+fünfte(n)`fifth
+sechste(n)`sixth
+siebte(n)`seventh
+Die Schule beginnt / endet um ...`School starts / ends at ...
+die (kleine) Pause`(short) break
+die Mittagspause`lunch break
+Wir haben ... Stunden pro Tag.`We have ... lessons per day.
+Jede Stunde dauert ... Minuten.`Each lesson lasts ... minutes.
+Ich habe vier Stunden (Erdkunde) pro Woche.`I have four lessons (of geography) per week.
+Ich habe viermal pro Woche (Mathe).`I have (maths) four times a week.
+Mein Lieblingsfach ist (Physik).`My favourite subject is (physics).
+Fragen stellen`Asking questions
+Wann?`When?
+Wie viele?`How many?
+Um wie viel Uhr?`At what time?
+Wie oft?`How often?
+Was?`What?
+Ist (Mathe) dein Lieblingsfach?`Is (maths) your favourite subject?
+Warum?`Why?
+Welches Fach?`Which subject?
+Wie?`How?
+Wer?`Who?
+Die Schulordnung`School rules
+der Computerraum`ICT room
+der Schulhof`playground
+die Aula`assembly hall
+die Bibliothek`library
+die Kantine`canteen
+die Sporthalle`sports hall
+das Klassenzimmer`classroom
+das Labor`lab(oratory)
+das Lehrerzimmer`staff room
+die Toiletten`toilets
+Wir dürfen nicht ...`We are not allowed to ...
+Wir dürfen weder ... noch ...`We are allowed neither ... nor ...
+schlagen`to hit
+mobben`to bully
+(auf dem Schulgelände) rauchen`to smoke (in the school grounds)
+essen`to eat
+trinken`to drink
+Sportschuhe tragen`to wear trainers
+Handball spielen`to play handball
+Wir dürfen keine Schimpfwörter sagen.`We are not allowed to use swear words.
+Wir dürfen keinen Kaugummi kauen.`We are not allowed to chew gum.
+Wir müssen ...`We have to ...
+den Müll trennen`separate the rubbish
+immer Hochdeutsch sprechen`always speak standard German
+ruhig sein`be quiet
+höflich sein`be polite
+pünktlich sein`be punctual
+respektvoll sein`be respectful
+zu`too
+sehr`very
+ziemlich`rather, quite
+streng`strict
+ärgerlich`annoying
+nervig`irritating
+(un)gerecht`(un)just
+(un)fair`(un)fair
+locker`casual, informal
+Das deutsche Schulsystem`The German school system
+Ich besuche ...`I go to ...
+die Grundschule`primary school
+die Gesamtschule`comprehensive school
+die Hauptschule`a type of secondary school
+die Realschule`a type of secondary school
+das Gymnasium`grammar school
+die Oberstufe`sixth form
+die Ganztagsschule`all-day school
+das Internat`boarding school
+der Mittlere Schulabschluss`German equivalent of GCSEs
+das Abitur`German equivalent of A levels
+gemischt`mixed
+privat`private
+staatlich`state
+Man hat ...`We have ...
+(k)einen Stundenplan`no / a timetable
+(k)eine Schuluniform`no / a school uniform
+(keine) Hausaufgaben`(no) homework
+Man hat tolle / keine Computerräume.`We have great / no ICT rooms.
+Die Schule ist prima / schlecht ausgestattet.`The school is very well / badly equipped.
+Ich bin sitzen geblieben.`I repeated the year.
+Ich muss das Jahr wiederholen.`I have to repeat the year.
+Eine Klassenfahrt`A class trip
+Was werden wir am (Mittwoch) machen?`What will we do on (Wednesday)?
+Ich werde ...`I will ...
+Deutsch sprechen`speak German
+einen Schultag erleben`experience a school day
+einen Tagesausflug machen`go on a day trip
+eine Fahrradtour machen`go on a cycling tour
+ein Kunstprojekt machen`do an art project
+den Abend bei einer Gastfamilie verbringen`spend the evening with a host family
+das (Zirkus-)Museum besuchen`visit the (circus) museum
+den Freizeitpark besuchen`visit the theme park
+die Sehenswürdigkeiten besichtigen`visit the sights
+ins Hallenbad / Freibad gehen`go to the indoor / outdoor swimming pool
+in der Altstadt bummeln`stroll around the old town
+Andenken kaufen`buy souvenirs
+(wieder) nach Hause fahren`go home (again)
+Es wird ... kosten.`It will cost ...
+Das wird Spaß machen.`That will be fun.
+Heimweh haben`to be homesick
+reisekrank sein`to be travel sick
+Die Reise hat ... gedauert.`The journey lasted ...
+Das war eine Katastrophe!`That was a catastrophe!
+Es gab (kein) WLAN.`There was (no) Wi-Fi.
