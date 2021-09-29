@@ -1,0 +1,45 @@
+# AQA GCSE Biology for Combined Sciences: Trilogy B15 - Adaptations, interdependence and competition Cloze Cards
+# Original Flashcard Deck by marplehallscience on Quizlet (https://quizlet.com/marplehallscience)
+# Converted to Anki Form by Manas Mengle
+# 2021
+«
+Abiotic factors«Non-living factors that affect communities: 1. Light intensity 2. Temperature 3. Moisture levels 4. Soil pH and mineral content 5. Wind intensity and direction 6. Carbon dioxide levels - plants 7. Oxygen levels - aquatic animals
+Animals compete for«1. Food 2. Mates - for reproduction 3. Territory
+Aquatic«Lives in water
+Behavioural adaptations«Changes in behaviour to help survive eg migration, tools, pack hunting.
+Biotic factors«Living factors that affect communities: 1. Availability of food 2. New predators 3. New pathogens (microorganisms that cause disease) 4. One species outcompeting leading to numbers too low to breed.
+Communities«Group of interdependent plants or animals living together
+Ecosystem«A system that includes all living organisms (biotic) in an area as well as non-living (abiotic) factors
+Energy source for ecosystems«The sun is the source of energy in all food webs. Plants use photosynthesis to convert light into chemical energy in glucose
+Example animal adaptations«Camouflage to hide/hunt; big surface area increases heat loss; blubber reduces heat loss.
+Example plant adaptations«Long roots collect water; small leaves reduce water loss; big leaves increase light captured.
+Extremophiles«Organisms that live in very extreme environments such as high pressure/temperature/salt concentrations. Example: Bacteria in deep sea vents.
+Food chain«A single path in a food web.
+Functional adaptations«Biological processes such as reproduction or metabolism eg giving birth to lots of young; hibernation; a chameleon's adaptive camouflage.
+Interdependence«Different species relying on each other for food, shelter, pollination, seed dispersal. Changes to one species affect the whole community
+Line transect«A line along which you measure distribution of organisms.
+Plants compete for«1. Light and space 2. Water 3. Mineral ions from soil
+Quadrat«Randomly chosen small area (often 1m2). Used to estimate total numbers.
+Structural adaptations«Physical features eg fur, beak shape, foot size, sharp claws, thick blubber, big leaves, long roots, camouflage.
+Interpendence«The network of relationships between different organisms within an community
+Distribution«when particular types of organisms are found within an environment
+sample size«the size of a sample in an investigation
+Quantitative sampling«records the numbers of organisms rather than just the type
+mean«the arithmetic average of a distribution, obtained by adding the scores and then dividing by the number of scores
+range«The maximum and minimum values for the independent or dependent
+Mode«The value that occurs most frequently in a given data set.
+Median«the middle score in a distribution; half the scores are above it and half are below it
+transect«a measured line or area along which ecological measurements are made
+abundace«A measure of how common or rare a particular type of organism is
+competition«The process by witch living organisms compete with each other for limited resources
+Adaptations«Changes in physical structure, function, or behaviour that allow an organism or species to survive and reproduce in a given environment.
+predators«animals that kill and eat other animals
+community«A group of interdependent organisms inhabiting the same region
+light intensity«An abiotic factor that would specifically affect plants
+oxygen levels«An abiotic factor that specifically affects sea creatures
+territory«Animals compete for food, mates and..
+minerals«Plants compete for light, water and..
+camouflage«An adaptation specifically useful for predators and prey
+water«Cacti store this in the stem to survive their conditions
+random«To make it fair, sampling must be this
+random number generator«A more accurate tool to ensure unbiased sampling points are chosen.

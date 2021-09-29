@@ -1,0 +1,28 @@
+# AQA GCSE Physics for Combined Sciences: Trilogy P1 - Energy
+# Original Flashcard Deck by lornabrownnn on Quizlet (https://quizlet.com/296894390/aqa-combined-science-physics-energy-flash-cards/)
+# Converted to Anki Form by Manas Mengle
+# 2021
+;
+What are the 8 types of energy stores?;1. Thermal<br>2. Kinetic<br>3. Gravitational Potential<br>4. Elastic Potential<br>5. Chemical <br>6. Magnetic<br>7. Electrostatic<br>8. Nuclear
+What can energy be transferred by?;Heat or by doing work
+What will you need to investigate specific heat capacity?;- A power supply<br>- Ammeter<br>- Block of material<br>- Insulation<br>- Thermometer<br>- Heater
+What can't energy be?;Created or destroyed
+What can be done with energy?;It can be transferred usefully, stored or dissipated
+What is the proper word for wasted energy?;Dissipated energy
+What does lubrication do?;It reduces frictional forces
+How can heating occur with energy?;By conduction or convection
+What does insulation do?;It reduces the rate of energy transfer by heating
+Does energy often get wasted during transfers?;Yes
+Is useful energy input usually equal to total energy output?;No
+What are 3 non-renewable energy resources?;1. Coal<br>2. Oil<br>3. (Natural) gas
+What are the 7 renewable energy resources that will never run out?;1. The sun<br>2. Wind<br>3. Water waves<br>4. Hydro-electricity<br>5. Bio-fuel<br>6. Tides<br>7. Geothermal
+Can energy resources be used for transport and heating?;Yes
+How is energy generated from wind power?;By lots of wind turbines
+What do solar cells get energy from?;The sun
+What's geothermal power from?;Underground thermal energy stores, like in volcanic areas
+What does hydro-electric power use?;Falling water
+How does wave power work?;Lots of little turbines located around the coast
+What do tidal barrages use?;The sun and moons gravity, they're big dams built across river estuaries with turbines in them so as the tide rises, it fills the estuary up
+What are biofuels made from?;Plants and waste
+What environmental problems do non-renewable resources cause?;They release carbon dioxide into the environment and add to the greenhouse effect, contributing to global warming
+What is the use of renewable resources limited by?;Reliability, money and politics
