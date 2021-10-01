@@ -1,0 +1,5 @@
+# GCSE (9-1) Computer Science for OCR J277: Unit 1.1 - Systems Architecture
+# Original Flashcard Deck by georgiastanford7 on Quizlet (https://quizlet.com/gb/613094466/gcse-ocr-j277-computer-science-11-systems-architecture-flash-cards/)
+# Modified by Manas Mengle
+# 2021
+;
